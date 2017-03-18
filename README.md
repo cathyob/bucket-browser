@@ -1,12 +1,12 @@
 # FEEDbucket
 
-DEPLOYED FRONT END: https://squad-sol.github.io/bucket-browser/
+DEPLOYED FRONT END: https://cathyob.github.io/bucket-browser/
 
 
-BACKEND REPO: https://github.com/Squad-SOL/bucket-api
+BACKEND REPO: https://github.com/cathyob/bucket-api
 
 
-HEROKU: https://fast-atoll-26007.herokuapp.com/
+HEROKU: https://feedbucketcathyob.herokuapp.com/
 
 
 Created by @cathyob, @dsweetser, and @newayliu1 for General Assembly Boston Web Development Immersive cohort 016!
@@ -53,12 +53,12 @@ Also, you will need a backend server. We used Heroku. You can create your own an
   * delete a restaurant from their saved list
 
 ## ERD
-![alt text](https://raw.githubusercontent.com/Squad-SOL/bucket-browser/master/ERD.jpg "ERD")
+![alt text](https://raw.githubusercontent.com/cathyob/bucket-browser/master/ERD.jpg "ERD")
 
 ## WIREFRAME
-![alt text](https://raw.githubusercontent.com/Squad-SOL/bucket-browser/master/Wireframe.jpg "Wireframe")
+![alt text](https://raw.githubusercontent.com/cathyob/bucket-browser/master/Wireframe.jpg "Wireframe")
 
 # THANK YOU!
-Don't forget to try it out here: https://squad-sol.github.io/bucket-browser/
+Don't forget to try it out here: https://cathyob.github.io/bucket-browser/
 
 Thank you very much for checking out our app! Please let us know if you have any questions!
