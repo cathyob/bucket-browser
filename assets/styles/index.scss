@@ -316,7 +316,11 @@ footer {
 }
 
 .portfolio-link,
-.portfolio-link:hover {
+.portfolio-link:link,
+.portfolio-link:visited,
+.portfolio-link:hover,
+.portfolio-link:active {
   color: $dark-color;
+  font-weight: bold;
   text-decoration: underline;
 }
