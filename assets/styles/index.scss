@@ -314,3 +314,9 @@ footer {
   text-align: center;
   width: 100%;
 }
+
+.portfolio-link,
+.portfolio-link:hover {
+  color: $dark-color;
+  text-decoration: underline;
+}
